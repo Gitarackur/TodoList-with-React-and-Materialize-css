@@ -1,0 +1,44 @@
+.App{
+    /* background: #070629; */
+    /* color: rgba(255, 110, 196, 0.9); */
+    /* color: rgba(184, 52, 131, 0.9); */
+    /* color: #ffffff; */
+  }
+
+
+.NewTodo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: #070629;
+    color: #ffffff;
+    box-shadow: 2px 5px 2px #1b1b1b;
+    margin-bottom: 1%;
+    padding: 2%;
+
+}
+
+
+.btn-holder{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+
+.inp{
+    color: white !important;
+    padding: 2%;
+    display: block;
+    border-bottom: 1px  solid rgb(47, 255, 210) !important;
+    margin: 0 !important;
+    padding: 2% !important;
+}
+
+/* .add-btn{
+    height: 3rem !important;
+    padding: 1%;
+    display: block;
+} */

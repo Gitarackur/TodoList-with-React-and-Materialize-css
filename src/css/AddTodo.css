@@ -1,0 +1,48 @@
+
+.AddTodo{
+    width: 100%;
+    background: #070629;
+    color: #ffffff;
+    box-shadow: 2px 5px 2px #1b1b1b;
+    margin-bottom: 1%;
+    
+}
+
+.bch{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.bd{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.task{
+    padding: 2%;
+}
+
+.btc{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.Todo{
+    color: #fff;
+    padding: 2%;
+}
+
+.noTodo{
+    color: #fff;
+    padding: 5%;
+    text-align: center;
+}
